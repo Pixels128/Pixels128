@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Joey. I'm a student pursuing Computer Science. I hope to become a researcher. 
+
 <!--
 **Pixels128/Pixels128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
